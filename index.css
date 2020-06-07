@@ -345,20 +345,22 @@ a.button1:hover{
      color:#000000;
      background-color:#FFFFFF;
     }
-.wrapper  a {
-    text-decoration: none;
-   list-style: none;
-   color: black;
+section.number_six{
+    width:100vw;
+    height: 20vh;
+    background-color:rgb(97, 117, 207);
 }
 
-.wrapper ul li{
-    position: ;
+section.number_six img{
+    width: 6vw;
+    height: 12vh;
+    padding-left: 10%;
+    margin-top: 5vh;
 }
-.wraper ul ul{
-    display: none;
-    background-color: black;
+section.number_six img:hover{
+    opacity: 10%;
+    transition: 0.5s;
 }
-   
    
     @media all and (max-width:30em){
     a.button1{
